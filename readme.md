@@ -11,5 +11,6 @@ Se busca probar algunas de las funciones que ofrece el plugin para reportar como
 * releases
 * deployments
 
-nota: parece que despues de abrir y cerrar un issue el plugin dejo de reportar los commits
-nota: 1 comprobar si el issue esta relacionado a usar commit -am "mensaje"
+nota 1: parece que despues de abrir y cerrar un issue el plugin dejo de reportar los commits  
+nota 2: comprobar si el issue esta relacionado a usar commit -am "mensaje"  
+nota 3: el plugin si reporta la creacion de un nuevo issue, verificare si un commit se reporta estando el issue abierto y creando una nueva branch
