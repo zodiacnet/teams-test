@@ -15,3 +15,4 @@ nota 1: parece que despues de abrir y cerrar un issue el plugin dejo de reportar
 nota 2: comprobar si el issue esta relacionado a usar commit -am "mensaje"  
 nota 3: el plugin si reporta la creacion de un nuevo issue, verificare si un commit se reporta estando el issue abierto y creando una nueva branch  
 nota 4: nada se reporta intantare ligar una branch al issue  
+nota 5: fue posible conectar el pr y el issue mediante un comentario en el pr ahora agregare este cambio para ver si se reporta por el plugin
