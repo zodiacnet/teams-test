@@ -10,3 +10,5 @@ Se busca probar algunas de las funciones que ofrece el plugin para reportar como
 * ~~comments~~
 * releases
 * deployments
+
+nota: parece que despues de abrir y cerrar un issue el plugin dejo de reportar los commits
