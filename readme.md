@@ -4,9 +4,9 @@ usando microsoft teams y el plugin de github
 
 ## Pruebas
 Se busca probar algunas de las funciones que ofrece el plugin para reportar como:
-* issues
 * pulls
+* ~~issues~~
 * ~~commits~~
-* comments
+* ~~comments~~
 * releases
 * deployments
