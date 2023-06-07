@@ -17,4 +17,4 @@ nota 3: el plugin si reporta la creacion de un nuevo issue, verificare si un com
 nota 4: nada se reporta intantare ligar una branch al issue  
 nota 5: fue posible conectar el pr y el issue mediante un comentario en el pr ahora agregare este cambio para ver si se reporta por el plugin  
 nota 6: los cambios se reportan directamente en master y no en el pr viendo como resolverlo  
-nota 7:
+comentario: ver si ya funciona bien la conexion de github y teams
